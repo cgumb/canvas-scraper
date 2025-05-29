@@ -1,0 +1,8 @@
+courses
+venv/
+pycache/
+*.pyc
+.env
+.direnv/
+canvas_output/
+*.log

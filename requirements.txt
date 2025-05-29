@@ -1,0 +1,4 @@
+canvasapi
+pathvalidate
+html2text
+# Optional: python-dotenv
