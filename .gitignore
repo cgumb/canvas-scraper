@@ -6,3 +6,4 @@ pycache/
 .direnv/
 canvas_output/
 *.log
+.aider*
